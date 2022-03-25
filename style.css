@@ -3,6 +3,7 @@
 
 
 
+
 *{
     padding: 0;
     margin: 0;
@@ -102,7 +103,7 @@ nav h2{
     
 
 }
-.card-buttons{
+.cardButtons{
     width: 100%;
     display: flex;
     align-items: center;
@@ -111,9 +112,7 @@ nav h2{
 
 }
 
-#mainColor{
-     
-}
+
 
 .buttons{
     display: flex;
@@ -137,7 +136,7 @@ button{
 }
 
 
-.playAgain{
+.easy{
     background-color: #000000;
     color: white;
 }
